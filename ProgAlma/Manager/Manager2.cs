@@ -2,10 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProgAlma.Entity
+namespace ProgAlma.Manager
 {
-    class Entita1
+    class Manager2
     {
-        string appo = "";
     }
 }
