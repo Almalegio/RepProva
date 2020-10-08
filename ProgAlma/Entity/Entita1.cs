@@ -8,6 +8,5 @@ namespace ProgAlma.Entity
     {
         string appo = "Test Versione Nuova a";
          string appo2 = "Test Versione Nuova a";
-
     }
 }
