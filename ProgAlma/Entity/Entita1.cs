@@ -6,7 +6,7 @@ namespace ProgAlma.Entity
 {
     class Entita1
     {
-        string appo = "Test Piero";
+        string appo = "Test Piero ";
          string appo2 = "Test Piero";
     }
 }
