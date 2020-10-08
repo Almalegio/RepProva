@@ -8,5 +8,6 @@ namespace ProgAlma.Entity
     {
         string appo = "Test Piero ";
          string appo2 = "Test Piero";
+         string appo3 = "Test Piero 1";
     }
 }
